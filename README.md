@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @macqueen0987
+- 👋 Hi, I’m @ErrCode0987
 - 👀 I’m interested in chatbots, mainly discord.py bots
 - 🌱 I’m currently learning softwares in colledge
 - 💞️ I’m looking to collaborate on ...
