@@ -41,14 +41,13 @@ FastAPI 기반의 비동기 백엔드, SQLAlchemy ORM, 다국어 지원(Localiza
 
 - “사용자에게 유용한 자동화”를 만드는 것이 궁극적인 목표입니다.  
 - 기능이 많은 것보다 **명확한 구조와 유지보수성**을 더 중요하게 생각합니다.  
-- GRASP / SOLID / DDD 기반의 구조화된 소프트웨어를 선호합니다.
 
 ---
 
 ## 📫 연락
 
 - 깃허브: [@macqueen0987](https://github.com/macqueen0987)  
-- 이메일: [admin@code0987.com](mailto:me@code0987.com)
+- 이메일: [me@code0987.com](mailto:me@code0987.com)
 
 ---
 
