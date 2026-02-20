@@ -109,4 +109,4 @@
 ## 📫 Contact
 
 - 깃허브: [@macqueen0987](https://github.com/macqueen0987)  
-- 이메일: [me@code0987.com](mailto:me@code0987.com)
+- 이메일: [macqueen0987@gmail.com](mailto:macqueen0987@gmail.com)
